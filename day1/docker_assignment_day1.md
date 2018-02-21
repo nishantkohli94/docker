@@ -22,5 +22,6 @@ Assignment 2:
 5. Run another container using below command and check if you can find hello.txt within this container. You should find container isolations from step 3-5.
 	docker container run alpine ls
 6. Stop a container using Container ID.
-7. Inspect already downloaded "alpine" docker image using docker inspect command.
-8. Tag your local "alpine" image with name "myimage" along with version 1.0
+7. Start same container using ID and exec a command "echo 'hello world!'" in docker container without instantiating a new container.
+8. Inspect already downloaded "alpine" docker image using docker inspect command.
+9. Tag your local "alpine" image with name "myimage" along with version 1.0
