@@ -2,9 +2,9 @@
 
 Topics to be Covered
 ------------------------
-Working with Docker port forwarding.
-Attaching docker volume to a container.
-Link containers.
+* Working with Docker port forwarding.
+* Attaching docker volume to a container.
+* Link containers.
 
 Assignment 1
 -------------------
