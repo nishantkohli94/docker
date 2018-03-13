@@ -1,9 +1,9 @@
-Topic: Docker Installation on Centos 7
+## Topic: Docker Installation on Centos 7
 
 Topics to be Covered
 -------------------------
-Installing Docker using yum or apt.
-Installing Docker Automatically using official shell script.
+* Installing Docker using yum or apt.
+* Installing Docker Automatically using official shell script.
 
 What You Will Learn
 ----------------------------
@@ -23,4 +23,4 @@ The Assignment
 
 Reference
 ----------------
-[Docker Installation](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-centos-7) - HTML to Markdown converter
+[Docker Installation](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-centos-7)
