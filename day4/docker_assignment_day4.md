@@ -17,12 +17,12 @@ console.log("hello from " + hostname);
 
 2. Create a file named Dockerfile and write code as per the steps mentioned.
 
-a. Use alpine image.
-b. Add Author/Maintainer name in DockerFile
-c. run commands -> apk update & apk add nodejs
-d. copy current directory to /app
-e. change your working directory to /app
-f. specify the default command to be run upon container creation as mentioned below.
+* Use alpine image.
+* Add Author/Maintainer name in DockerFile
+* run commands -> apk update & apk add nodejs
+* copy current directory to /app
+* change your working directory to /app
+* specify the default command to be run upon container creation as mentioned below.
 	node index.js
 	
 3. Build image from Dockerfile.
