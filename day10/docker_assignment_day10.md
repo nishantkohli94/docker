@@ -38,10 +38,14 @@ Assignment
 Reference
 -----------------
 [Spring3HibernateApp](https://github.com/OpsTree/ContinuousIntegration/tree/master/Spring3HibernateApp)
-[Docker Run](https://docs.docker.com/engine/reference/run/)
-[Docker Network](https://docs.docker.com/v17.09/engine/userguide/networking/work-with-networks/#create-networks)
-[Dockerfile](https://docs.docker.com/engine/reference/builder/)
-[Docker Compose](https://docs.docker.com/compose/compose-file/)
-[Docker Swarm](https://docs.docker.com/engine/swarm/#swarm-mode-cli-commands)
 
+[Docker Run](https://docs.docker.com/engine/reference/run/)
+
+[Docker Network](https://docs.docker.com/v17.09/engine/userguide/networking/work-with-networks/#create-networks)
+
+[Dockerfile](https://docs.docker.com/engine/reference/builder/)
+
+[Docker Compose](https://docs.docker.com/compose/compose-file/)
+
+[Docker Swarm](https://docs.docker.com/engine/swarm/#swarm-mode-cli-commands)
 
