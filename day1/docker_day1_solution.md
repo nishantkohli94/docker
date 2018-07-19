@@ -14,6 +14,8 @@ sudo systemctl status docker
 Enable Docker service to start at every machine reboot.
 sudo systemctl status docker
 
+![](https://github.com/nishantkohli94/docker/blob/master/images/Capture_docker_running.PNG)
+
 Display Docker version.
 
 docker version
